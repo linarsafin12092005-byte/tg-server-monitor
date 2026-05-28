@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telegram-бот для мониторинга сервера
 
 Учебный проект в рамках подготовки к позиции AI-DevOps стажёра.
@@ -24,3 +25,6 @@
 
 ### 1. Получить токен бота
 Напишите [@BotFather](https://t.me/BotFather) в Telegram:   
+=======
+# tg-server-monitor
+>>>>>>> 69b6a2ea91b75c42cfbcc6d570b690c360e56154
